@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="ext/BilatRmiTools.jar"/>
+	<classpathentry kind="lib" path="ext/clavier.jar"/>
+	<classpathentry kind="lib" path="ext/HmTimes.jar"/>
+	<classpathentry kind="lib" path="ext/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="ext/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="ext/JTattoo-1.6.8.jar"/>
+	<classpathentry kind="lib" path="ext/miglayout-4.0-swing.jar"/>
+	<classpathentry kind="lib" path="ext/RXTXcomm.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="stationmeteo/ext"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="ext/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
